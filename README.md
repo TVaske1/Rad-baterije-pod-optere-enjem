@@ -1,2 +1,2 @@
 # Rad-baterije-pod-opterećenjem
-ovaj projekat je radjen kao simulacija rada i punjenja baterije pod opterećenjem.sva dalja obljašnjenja projekta se nalaze u dokumentaciji
+ovaj projekat je radjen kao simulacija u scilabu i simulira rad i punjenja baterije pod opterećenjem.za pokretanje projekta potrebno je instalirati sci lab.sva dalja uputsvta vezana za projekat mogu se naći u dokumentaciji
